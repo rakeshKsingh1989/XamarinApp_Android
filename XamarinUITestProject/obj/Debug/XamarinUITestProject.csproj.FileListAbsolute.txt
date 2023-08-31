@@ -1,0 +1,15 @@
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\bin\Debug\nunit.engine.dll
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\bin\Debug\nunit.engine.api.dll
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\bin\Debug\test-cloud.exe
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\bin\Debug\XamarinUITestProject.dll
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\bin\Debug\XamarinUITestProject.pdb
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\bin\Debug\nunit.framework.dll
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\bin\Debug\nunit.framework.pdb
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\bin\Debug\Xamarin.UITest.dll
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\obj\Debug\XamarinUITestProject.csproj.AssemblyReference.cache
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\obj\Debug\XamarinUITestProject.csproj.CoreCompileInputs.cache
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\obj\Debug\XamarinUITestProject.csproj.CopyComplete
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\obj\Debug\XamarinUITestProject.dll
+C:\Users\RakeshKumar\source\repos\XamarinApp_Android\XamarinUITestProject\obj\Debug\XamarinUITestProject.pdb

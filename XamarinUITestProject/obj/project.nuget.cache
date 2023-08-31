@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vl9WyC/Aik4KK9OOffrTuEECx8tTww/F9AFaqMK0HlYCuFQvCqIhRhnbd1pP+D812nDomeI4AV9n/M0kMRPFdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RakeshKumar\\source\\repos\\XamarinApp_Android\\XamarinUITestProject\\XamarinUITestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RakeshKumar\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\RakeshKumar\\.nuget\\packages\\nunit3testadapter\\3.13.0\\nunit3testadapter.3.13.0.nupkg.sha512",
+    "C:\\Users\\RakeshKumar\\.nuget\\packages\\xamarin.uitest\\3.2.2\\xamarin.uitest.3.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
