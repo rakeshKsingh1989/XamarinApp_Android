@@ -19,6 +19,7 @@ namespace XamarinApp_Android
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
+
             AppCenter.Start("7ceed6c9-9824-4496-b687-221273421438",
                    typeof(Analytics), typeof(Crashes));
             base.OnCreate(savedInstanceState);
