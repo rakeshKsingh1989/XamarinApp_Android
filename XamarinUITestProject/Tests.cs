@@ -51,5 +51,6 @@ namespace XamarinUITestProject
             Assert.IsTrue(results[0].Text.Equals("1"));
           
         }
+
     }
 }

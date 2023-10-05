@@ -10,8 +10,9 @@ namespace XamarinUITestProject
         {
             if (platform == Platform.Android)
             {
-                //return ConfigureApp.Android.InstalledApp("com.companyname.xamarinapp_android").StartApp();
-                return ConfigureApp.Android.ApkFile(@"C:\ApkFiles\MultiTouchTester.apk").StartApp();
+                return ConfigureApp.Android.InstalledApp("com.companyname.xamarinapp_android").StartApp();
+
+                //return ConfigureApp.Android.ApkFile(@"C:\ApkFiles\MultiTouchTester.apk").StartApp();
             }
 
             return ConfigureApp.iOS.StartApp();
